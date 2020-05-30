@@ -2,7 +2,6 @@
 
 <h1>Oferta App</h1>
 
-Um aplicativo React Native + Firebase de publicações de ofertas locais , que são atualizadas 
-diariamete, alem de informar o estabelecimento mais próximo ao usuário.
-
-Link para donwload na Play Store: [Oferta App](https://play.google.com/store/apps/details?id=com.ofertaapp)
+Um app de publicações de ofertas locais , que são atualizadas 
+diariamete, alem de informar o estabelecimento mais próximo ao usuário. 
+Tecnologias utilizadas: React Native, Firebase, Redux, Redux Sauce, Styled Components
